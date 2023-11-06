@@ -1,0 +1,20 @@
+[
+    {
+      "Album Title": "Folklore",
+      "Musical Artist": "Taylor Swift",
+      "Songs/Tracks": ["the 1", "cardigan", "exile", "my tears ricochet", "mirrorball", "seven", "august", "this is me trying", "illicit affairs", "invisible string", "betty", "peace", "hoax"],
+      "Year Released": 2020
+    },
+    {
+      "Album Title": "Planet Her",
+      "Musical Artist": "Doja Cat/DC",
+      "Songs/Tracks": ["Woman", "Payday", "Need to Know", "You Right", "Been Like This", "Get Into It", "Amore", "Ain't Shit", "Imagine"],
+      "Year Released": 2021
+    },
+    {
+      "Album Title": "Rare",
+      "Musical Artist": "Selena Gomez",
+      "Songs/Tracks": ["Lose You to Love Me", "Look at Her Now", "Rare", "Vulnerable", "Dance Again", "Ring", "Souvenir", "Cut You Off", "A Sweeter Place", "People You Know", "Let Me Get Me", "Fun"],
+      "Year Released": 2020
+    }
+  ]
